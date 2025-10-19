@@ -1,58 +1,22 @@
 # Murphleague-2026
 
-MurphLeague is league made up of 5 qualifying tournaments and an 8 person [playoff final](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/7.Murphleague-2025-Championship).
+MurphLeague 2026 is a series of 
 
 ## League Points Breakdown
 The 5 tournaments will have points awarded by placement as follows:
 |       Points       |
-| :----------------: |
-| 15 for 1st         |
-| 12 for 2nd         |
-| 10 for 3rd         |
-| 8 for 4th          |
-| 6 for 5th          |
-| 5 for 6th          |
-| 4 for 7th          |
-| 3 for 8th          |
-| 2 for 9th          |
-| 1 for 10th and on  |
+|-|-|-|
+| 20 for 1st  | 12 for 5th | 5 for 9th |
+| 18 for 2nd  | 10 for 6th | 4 for 10th |
+| 16 for 3rd  | 8 for 7th | 3 for 11th |
+| 14 for 4th  | 6 for 8th | 2 for 12th |
 
 ## MurphLeague Standings
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
-| 1st                | Roflmaogamers1     | 45     |
-| 2nd                | BennyTots          | 42     |
-| 3rd                | CaptDanieldore     | 41     |
-| 4th                | Reilnur            | 26     |
-| 5th                | BeMidge            | 24     |
-| 6th                | Samuwell           | 23     |
-| 7th                | Batcam22           | 21     |
-| 8th                | Ceedsy             | 19     |
-| 9th                | Banana_Sen         | 18     |
-| 10th (Wins Tie)    | iAmSlammer         | 15     |
-| 11th               | McPlumber1         | 15     |
-| 12th               | CamMan52           | 14     |
-| 13th               | oxKINGLEOox        | 13     |
-| 14th               | Kennyladdd         | 11     |
-| 15th               | DorktownPhantom    | 10     |
-| 16th               | Brae12321          | 4      |
-| Tied - 17th        | Kipoterp           | 3      |
-| Tied - 17th        | AitchKay           | 3      |
-| Tied - 17th        | TheBrokenPirates   | 3      |
-| Tied - 17th        | Freestob           | 3      |
-| Tied - 21st        | SlothGoss          | 2      |
-| Tied - 21st        | ImTripleShuriken   | 2      |
-| Tied - 21st        | Domanski95         | 2      |
-| Tied - 24th        | Imtyp0             | 1      |
-| Tied - 24th        | AlecSweatpants     | 1      |
-| Tied - 24th        | Smolfan27          | 1      |
-| Tied - 24th        | xoptoss            | 1      |
-| Tied - 24th        | attractivetoucan39 | 1      |
-| Tied - 24th        | Kyroteck           | 1      |
-| Tied - 24th        | Idlecrisp          | 1      |
-| Tied - 24th        | HUZQI              | 1      |
-| Tied - 24th        | mushrambo53        | 1      |
+| 1st                | BigMurph619    | 000    |
+
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Tiebreakers for positioning will be decided first by highest tourney finish, then by coinflip. Details of the format for the playoff are to come.
 
