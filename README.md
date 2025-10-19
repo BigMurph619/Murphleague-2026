@@ -3,10 +3,10 @@
 MurphLeague 2026 is a series of 
 
 ## League Points Breakdown
-The 5 tournaments will have points awarded by placement as follows:
-|       Points       |
-|-|-|-|
+The 6 tournaments will have points awarded by placement as follows:
+
 | 20 for 1st  | 12 for 5th | 5 for 9th |
+|-|-|-|
 | 18 for 2nd  | 10 for 6th | 4 for 10th |
 | 16 for 3rd  | 8 for 7th | 3 for 11th |
 | 14 for 4th  | 6 for 8th | 2 for 12th |
