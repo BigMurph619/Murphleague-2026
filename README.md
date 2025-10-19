@@ -1,6 +1,6 @@
 # Murphleague-2026
 
-MurphLeague 2026 is a series of 
+MurphLeague 2026 is a series of 6 regular season tournaments and a 2-part playoff championship tournament. Competitors will play 2 different IronMON like game modes: Roguemon Ascension 2 and Murphmon. Each tournament placement can earn league points towards claiming a playoff spot at the end of the year. There are 12 playoff spots up for grabs.
 
 ## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
@@ -10,6 +10,8 @@ The 6 tournaments will have points awarded by placement as follows:
 | 18 for 2nd  | 10 for 6th | 4 for 10th |
 | 16 for 3rd  | 8 for 7th | 3 for 11th |
 | 14 for 4th  | 6 for 8th | 2 for 12th |
+
+Every competitor who earns at least 1 tournament point will earn 1 league point from that respective tournament if they finish outside of the top 12. The final league standings will drop each competitors' lowest tournament finish (this includes a 0 for a non-participation). Additionally, each competitor has the chance to earn 5 bonus league points by earning at least 1 tournament point in ALL 6 regular season tournaments.
 
 ## MurphLeague Standings
 Updated at the conclusion of each tournament.
