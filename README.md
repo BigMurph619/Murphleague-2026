@@ -22,13 +22,15 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 ## Tournament Dates
 | Tournament Number (Game Mode) | Dates |
 |-|-|
-| T1 (Roguemon A2) | January 2nd - January 18th |
-| T2 (Firered Murphmon) | March 6th - March 22nd |
-| T3 (Roguemon A2) | May 1st - May 17th |
-| T4 (Heartgold Murphmon) | July 3rd - July 19th |
-| T5 (Roguemon A2) | September 4th - September 20th |
-| T6 (Emerald Murphmon) | November 6th - November 22nd |
-| Playoffs (Roguemon A2/Firered NATDEX Murphmon) | December 4th - December 20th |
+| T1 - (Roguemon A2) | January 2nd - January 18th |
+| T2 - (Firered Murphmon) | March 6th - March 22nd |
+| T3 - (Roguemon A2) | May 1st - May 17th |
+| T4 - (Heartgold Murphmon) | July 3rd - July 19th |
+| T5 - (Roguemon A2) | September 4th - September 20th |
+| T6 - (Emerald Murphmon) | November 6th - November 22nd |
+| Playoffs - (Roguemon A2/Firered NATDEX Murphmon) | December 4th - December 20th |
+
+//Include links to tourneys and rulesets once done.
 
 ## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
@@ -56,25 +58,21 @@ Competitors' cumulative league points (after dropping lowest score and adding pa
 | 2nd Tiebreaker - Tournaments played (Must have earned at least 1 point) |
 | 3rd Tiebreaker - Coinflip |
 
-## Tournament Dates
-|       All seeds MUST be ran during that tournament's date range      |
-| :-----------------------------------: |
-| Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
-| Playoff awards TBA |
-| Tournament tentative schedule: February(T1), May 9th-May 25th(T2), June 20th-July 6th(T3), August 1st-August17th(T4), September 19th-October 5th(T5) and November 7th-TBD(Playoff). |
-| T1 info: [T1: Firered Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/readme.md) - [T1 Leader Board](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/Murphmon-T1-Tourney-2025/leaderboard.md) |
-| T2 info: [T2: Emerald Monomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/3.Emerald-Monomon-T2-Tourney-2025) - [T2 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T2Standings.html) |
-| T3 info: [T3: Heartgold Monomon](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/4.HeartGold-Monomon-T3-Tourney-2025/README.md) - [T3 Leader Board](https://takejoshyy.github.io/TheMurphVerse/pages/T3/index.html) |
+## Game Mode Info
 
-## Participation Info
+|Roguemon|
+|-|
+| Roguemon is [Crozwords](https://www.twitch.tv/crozwords) |
+
+|Murphmon|
+|-|
+| Murphmon is [BigMurph619](https://www.twitch.tv/bigmurph619)|
+
+## Credits/Info
 | Links/Participation/FAQ |
 | :-----------------: |
-| [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/7d30dd737aa40bbd3b526a5b284bd4d3debfb3c4/readme.md) |
-| If you would like to be part of future Murphverse tournaments and/or the MurphLeague join the [MurphVerse discord](https://discord.gg/ctYty73VAT) |
-| Murphverse tournaments are NOT official IronMON Tourney Hub tournaments. However, we highly encourage you to check out the following links for IronMON setup, official IronMON rulesets, official IronMON tournies and the creators responsible for bringing this great content to the Pokemon community. |
+| If you would like to be a part of the MurphLeague join the [MurphVerse discord](https://discord.gg/ctYty73VAT) |
 | IronMON setup and rules: [IronMON Discord](https://discord.com/invite/jFPYsZAhjX) |
 | Creator of IronMON (the foundation and inspiration behind Murphverse challenges): [iateyourpie](https://www.twitch.tv/iateyourpie) |
-| [IronMON Tourney Hub Discord](https://discord.gg/zsqtN6X7Ra) |
-| Head of the IronMON Tourney Hub Discord [Crozwords](https://www.twitch.tv/crozwords) |
 
-As always, Goodluck Challenger.
+Goodluck Challengers.
