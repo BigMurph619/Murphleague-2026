@@ -1,8 +1,23 @@
 # Murphleague-2026
 
-MurphLeague 2026 is a series of 6 regular season tournaments and a 2-part playoff championship tournament. Competitors will play 2 different IronMON like game modes: Roguemon Ascension 2 and Murphmon. Each tournament placement can earn league points towards claiming a playoff spot at the end of the year. There are 12 playoff spots up for grabs.
+MurphLeague 2026 is a series of 6 regular season tournaments and a 2-part playoff championship tournament all of which are played for charity. Competitors will play 2 different IronMON like game modes: Roguemon Ascension 2 and Murphmon. Each tournament placement can earn league points towards claiming a playoff spot at the end of the year. There are 12 playoff spots up for grabs. ALL tournaments will be FREE to enter.
 
-## League Points Breakdown
+## Rewards
+Each tournament, competitors will play on their respective charity's behalf. Final tournament placements can earn donations provided by BigMurph619 and the generous members of the Murphleague community. Donation commitment information can be found in the "Pledge Page" portion of Murph's discord found here.
+
+I would like to start by pledging $500 to Murphleague 2026 with a breakdown found below:
+
+| Tournament (Pool) | Breakdown |
+|-|-|
+| T1 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
+| T2 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
+| T3 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
+| T4 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
+| T5 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
+| T6 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
+| Playoffs ($200) | 1st - $150, 2nd -$25, 3rd $25 |
+
+### League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
 
 | 20 for 1st  | 12 for 5th | 5 for 9th |
@@ -11,16 +26,22 @@ The 6 tournaments will have points awarded by placement as follows:
 | 16 for 3rd  | 8 for 7th | 3 for 11th |
 | 14 for 4th  | 6 for 8th | 2 for 12th |
 
-Every competitor who earns at least 1 tournament point will earn 1 league point from that respective tournament if they finish outside of the top 12. The final league standings will drop each competitors' lowest tournament finish (this includes a 0 for a non-participation). Additionally, each competitor has the chance to earn 5 bonus league points by earning at least 1 tournament point in ALL 6 regular season tournaments.
+Each competitor who earns at least 1 tournament point will earn 1 league point from that respective tournament if they finish outside of the top 12. The final league standings will drop each competitors' lowest tournament finish (this includes a 0 for a non-participation). Additionally, each competitor has the chance to earn 5 bonus league points by earning at least 1 tournament point in ALL 6 regular season tournaments.
 
-## MurphLeague Standings
+### MurphLeague Standings
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
 | 1st                | BigMurph619    | 000    |
 
 
-Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Tiebreakers for positioning will be decided first by highest tourney finish, then by coinflip. Details of the format for the playoff are to come.
+Competitors' cumulative league points (after dropping lowest score and adding participation bonus if eligible) will decide seeding for the 12-person playoff tournament. 
+
+| Tiebreakers will be decided as follows |
+|-|
+| 1st Tiebreaker - Highest Tournament Finish |
+| 2nd Tiebreaker - Tournaments played (Must have earned at least 1 point) |
+| 3rd Tiebreaker - Coinflip |
 
 ## Additional Info
 |       Details Subject to Update       |
