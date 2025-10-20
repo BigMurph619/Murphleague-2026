@@ -19,6 +19,17 @@ I would like to start by pledging $500 to Murphleague 2026 with a breakdown foun
 
 Additionally, the Murphleague 2026 champion will earn an engraved trophy, a bounty of Pokemon cards, 2 custom emotes from Kipoterp, a spot in the Murphverse Hall of Fame, and any additional pledges from the Murphleague community. 
 
+## Tournament Dates
+| Tournament Number (Game Mode) | Dates |
+|-|-|
+| T1 (Roguemon A2) | January 2nd - January 18th |
+| T2 (Firered Murphmon) | March 6th - March 22nd |
+| T3 (Roguemon A2) | May 1st - May 17th |
+| T4 (Heartgold Murphmon) | July 3rd - July 19th |
+| T5 (Roguemon A2) | September 4th - September 20th |
+| T6 (Emerald Murphmon) | November 6th - November 22nd |
+| Playoffs (Roguemon A2/Firered NATDEX Murphmon) | December 4th - December 20th |
+
 ## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
 
