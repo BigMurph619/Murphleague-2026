@@ -17,7 +17,7 @@ I would like to start by pledging $500 to Murphleague 2026 with a breakdown foun
 | T6 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
 | Playoffs ($200) | 1st - $150, 2nd -$25, 3rd $25 |
 
-### League Points Breakdown
+## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
 
 | 20 for 1st  | 12 for 5th | 5 for 9th |
@@ -28,7 +28,7 @@ The 6 tournaments will have points awarded by placement as follows:
 
 Each competitor who earns at least 1 tournament point will earn 1 league point from that respective tournament if they finish outside of the top 12. The final league standings will drop each competitors' lowest tournament finish (this includes a 0 for a non-participation). Additionally, each competitor has the chance to earn 5 bonus league points by earning at least 1 tournament point in ALL 6 regular season tournaments.
 
-### MurphLeague Standings
+## MurphLeague Standings
 Updated at the conclusion of each tournament.
 |   Standing         | Creator            | Points |
 | :----------------: | :------------:     | :----: |
