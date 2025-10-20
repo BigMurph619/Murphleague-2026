@@ -17,6 +17,8 @@ I would like to start by pledging $500 to Murphleague 2026 with a breakdown foun
 | T6 ($50) | 1st - $25, 2nd -$15, 3rd $10 |
 | Playoffs ($200) | 1st - $150, 2nd -$25, 3rd $25 |
 
+Additionally, the Murphleague 2026 champion will earn an engraved trophy, a bounty of Pokemon cards, 2 custom emotes from Kipoterp, a spot in the Murphverse Hall of Fame, and any additional pledges from the Murphleague community. 
+
 ## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
 
@@ -43,8 +45,8 @@ Competitors' cumulative league points (after dropping lowest score and adding pa
 | 2nd Tiebreaker - Tournaments played (Must have earned at least 1 point) |
 | 3rd Tiebreaker - Coinflip |
 
-## Additional Info
-|       Details Subject to Update       |
+## Tournament Dates
+|       All seeds MUST be ran during that tournament's date range      |
 | :-----------------------------------: |
 | Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
 | Playoff awards TBA |
