@@ -30,7 +30,7 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 | T6 - (Emerald Murphmon) | November 6th - November 22nd |
 | Playoffs - (Roguemon A2/Firered NATDEX Murphmon) | December 4th - December 20th |
 
-<!-- Trying this -->
+<!-- Insert Hyperlinks to each tourney above -->
 
 ## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
@@ -62,7 +62,7 @@ Competitors' cumulative league points (after dropping lowest score and adding pa
 
 |Roguemon|
 |-|
-| Roguemon is [Crozwords](https://www.twitch.tv/crozwords) |
+| RogueMon makes FRLG into a full Randomized Pokemon Roguelike. The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. The mode is created by [Crozwords](https://www.twitch.tv/crozwords). Information on rules and other details can be found [Here](https://github.com/Crozwords/Roguemon). Setup information and help can be found [Here](https://discord.gg/C88N88yfCP). |
 
 |Murphmon|
 |-|
