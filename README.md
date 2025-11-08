@@ -75,4 +75,4 @@ Competitors' cumulative league points (after dropping lowest score and adding pa
 | IronMON setup and rules: [IronMON Discord](https://discord.com/invite/jFPYsZAhjX) |
 | Creator of IronMON (the foundation and inspiration behind Murphverse challenges): [iateyourpie](https://www.twitch.tv/iateyourpie) |
 
-Goodluck Challengers.
+Good luck Challengers.
