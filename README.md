@@ -30,8 +30,7 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 | T6 - (Emerald Murphmon) | November 6th - November 22nd |
 | Playoffs - (Roguemon A2/Firered NATDEX Murphmon) | December 4th - December 20th |
 
-/* Include links to tourneys and rulesets once done. 
-*/
+Include links to tourneys and rulesets once done.
 
 ## League Points Breakdown
 The 6 tournaments will have points awarded by placement as follows:
