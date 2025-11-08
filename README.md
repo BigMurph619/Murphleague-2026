@@ -62,11 +62,11 @@ Competitors' cumulative league points (after dropping lowest score and adding pa
 
 |Roguemon|
 |-|
-| RogueMon makes FRLG into a full Randomized Pokemon Roguelike. The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. The mode is created by [Crozwords](https://www.twitch.tv/crozwords). Information on rules and other details can be found [Here](https://github.com/Crozwords/Roguemon). Setup information and help can be found [Here](https://discord.gg/C88N88yfCP). |
+| RogueMon makes FRLG into a full Randomized Pokemon Roguelike. The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. Roguemon was created by [Crozwords](https://www.twitch.tv/crozwords). Information on rules and other details can be found [Here](https://github.com/Crozwords/Roguemon). Setup information and help can be found [Here](https://discord.gg/C88N88yfCP). |
 
 |Murphmon|
 |-|
-| Murphmon is [BigMurph619](https://www.twitch.tv/bigmurph619)|
+| Murphmon is an IronMON-like challenge inspired by Super Kaizo IronMON. It features some easier rules and quality of life changes to make the game more viable for tournament play. The goal is to run 1 Pokemon from the lab to the Safari Zone, gaining resources along the way. You then pivot to a new Pokemon from the Safari Zone to beat the remainder of the game with. Features of Murphmon include: choosing your starter, balanced encounter rates in the early game and in Safari fishing, use of TMs and Move Tutors, more items, less restrictive gatekeeping, and a few buddies to help you along the way. Murphmon was created by [BigMurph619](https://www.twitch.tv/bigmurph619). Information on rules and other details can be found [Here](Update to new Murphmon link). Setup information and help can be found [Here](https://discord.gg/c4Bzm3Ezpx)|
 
 ## Credits/Info
 | Links/Participation/FAQ |
