@@ -33,13 +33,31 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 <!-- Insert Hyperlinks to each tourney above -->
 
 ## League Points Breakdown
-The 6 tournaments will have points awarded by placement as follows:
 
-| 20 for 1st  | 12 for 5th | 5 for 9th |
+
+|   | 12 for 5th | 5 for 9th |
 |-|-|-|
-| 18 for 2nd  | 10 for 6th | 4 for 10th |
+|   | 10 for 6th | 4 for 10th |
 | 16 for 3rd  | 8 for 7th | 3 for 11th |
-| 14 for 4th  | 6 for 8th | 2 for 12th |
+|   | 6 for 8th | 2 for 12th |
+
+<details>
+  <summary>The 6 tournaments will have points awarded by placement as follows:s</summary>
+  <ul>
+    <li>20 for 1st</li>
+    <li>18 for 2nd</li>
+    <li>16 for 3rd</li>
+    <li>14 for 4th</li>
+    <li>12 for 5th</li>
+    <li>10 for 6th</li>
+    <li>8 for 7th</li>
+    <li>6 for 8th</li>
+    <li>5 for 9th</li>
+    <li>4 for 10th</li>
+    <li>3 for 11th</li>
+    <li>2 for 12th</li>  
+  </ul>
+</details>
 
 Each competitor who earns at least 1 tournament point will earn 1 league point from that respective tournament if they finish outside of the top 12. The final league standings will drop each competitors' lowest tournament finish (this includes a 0 for a non-participation). Additionally, each competitor has the chance to earn 5 bonus league points by earning at least 1 tournament point in ALL 6 regular season tournaments.
 
