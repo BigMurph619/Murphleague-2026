@@ -34,15 +34,10 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 
 ## League Points Breakdown
 
-
-|   | 12 for 5th | 5 for 9th |
-|-|-|-|
-|   | 10 for 6th | 4 for 10th |
-| 16 for 3rd  | 8 for 7th | 3 for 11th |
-|   | 6 for 8th | 2 for 12th |
+Higher placements can earn additional League Points.
 
 <details>
-  <summary>The 6 tournaments will have points awarded by placement as follows:s</summary>
+  <summary>The 6 tournaments will have points awarded by placement as follows</summary>
   <ul>
     <li>20 for 1st</li>
     <li>18 for 2nd</li>
