@@ -27,7 +27,7 @@ Additionally, the Murphleague 2026 champion will earn an engraved trophy, a boun
 | T3 - (Roguemon A2) | May 1st - May 17th |
 | T4 - (Firered Murphmon)(SUMMER) | July 3rd - July 19th |
 | T5 - (Roguemon A2) | September 4th - September 20th |
-| T6 - (Firered Murphmon)(Winter) | November 6th - November 22nd |
+| T6 - (Firered Murphmon)(WINTER) | November 6th - November 22nd |
 | Playoffs - (Roguemon A2/Murphmon-TBD) | December 4th - December 20th |
 
 <!-- Insert Hyperlinks to each tourney above -->
